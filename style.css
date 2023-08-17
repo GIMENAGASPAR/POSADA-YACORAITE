@@ -1,0 +1,101 @@
+/*GIMENA GASPAR*/
+@import url('https://fonts.googleapis.com/css2?family=Poltawski+Nowy:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+
+header{
+    font-family: 'Dongle', sans-serif;
+}
+.bannersup{
+    background-color:rgb(46, 81, 48);
+    text-align: center;
+    font-size: 20px;
+}
+.logo{
+    padding: 0px 15px 0px 15px;
+}
+.barranav{
+    background-color: rgb(255, 255, 255);
+}
+.botnav a{
+    font-size: 40px;
+    color: black;
+    padding: 0px 15px 0px 15px;
+    font-weight:600;
+}
+.botnav a:hover{
+    background-color: rgb(101, 160, 120);
+    border-radius: 6px;
+}
+.botnav li{
+    padding: 0px 10px 0px 10px;
+    text-align: right;
+}
+.bannertilcara{
+    text-align:center;
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+
+}
+.bannertilcara button{
+    font-size: 20px;
+    background-color: rgb(97, 141, 101);
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    border-radius: 5PX;
+    border: none;
+}
+.textotilc{
+    text-align: justify;
+    font-size: 35px;
+    padding: 5px 0px 0px 0px;
+}
+
+
+.info{
+    background-color:rgba(255, 255, 255, 0.553) ;
+}
+.contacto{
+    background-color: rgb(100, 13, 124);
+}
+.menu{
+    font-size: 80px;
+    font-weight: bolder;
+}
+.titulo{
+    font-size: 55px;
+    font-weight: 900;
+    text-align: center;
+}
+.cuerpo{
+    font-size: 43px;
+    text-align:justify;
+    color: azure;
+}
+.cuerpo2{
+    font-size: 50px;
+    text-align:left;
+    color: rgb(0, 0, 0);
+}
+.cuerpo3{
+    font-size: 35px;
+    text-align:justify;
+    color: azure;
+}
+.DIVISION{   
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 70px 20px 70px;
+    box-sizing: border-box;
+}
+.TARJ{
+    width: 275px;
+}
+.ICONOS{
+    flex-wrap: wrap;
+}
+.TICONO
+{
+    width: auto;
+    height: 20px;
+    margin: 0px 5px 5px 0px;
+}
